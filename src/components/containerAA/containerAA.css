@@ -1,0 +1,7 @@
+.containerAA{
+    width: 250px;
+    height: 250px;
+    border: 1px solid red;
+    display: flex;
+    flex-direction: column;
+}
